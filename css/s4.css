@@ -17,3 +17,23 @@ textarea
   width:300px;
   height:200px;
 }
+h4
+{
+  background: url(../image/a.png);
+  no-repeat;
+text-indent: -9999px;
+
+  width:150px;
+  height:150px;
+}
+h5
+{
+  text-indent:400px;
+  font-size: 35px;
+  font-family: jokerman;
+  color: red;
+  margin-top: 50px;
+  letter-spacing: 3px;
+  text-transform:uppercase;
+  text-shadow: 1px 2px 5px yellow;
+}

@@ -1,0 +1,27 @@
+body{
+  margin: 0px;
+  background: gray
+}
+.div1
+{
+  background: yellow;
+  position:relative;
+  width :250px;
+  height: 250px;
+  top:20px;
+  left:20px;
+}
+.div2
+{
+  background: red;
+  position:relative;
+ height: 250px;
+  width :250px;
+}
+.div3
+{
+  background: green;
+  position: absolute;
+  height: 250px;
+  width :250px;
+}
