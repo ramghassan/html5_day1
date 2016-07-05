@@ -1,0 +1,19 @@
+label
+{
+  display:block;
+  padding-bottom:4px;
+  cursor: pinter;
+}
+form ul
+{
+  padding-left:0px;
+}
+form li{
+  list-style: none;
+  margin-bottom: 6px;
+}
+textarea
+{
+  width:300px;
+  height:200px;
+}

@@ -1,0 +1,18 @@
+body{
+  font-family: arial;
+  font-size: 15px
+}
+li{
+  display:inline;
+  padding-right: 15px
+}
+ul a{
+  text-decoration: none;
+
+}
+ul a:hover
+{
+  text-decoration: underline;
+  font-size: 30px;
+  text-decoration-color: green;
+}
