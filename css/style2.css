@@ -1,0 +1,28 @@
+.wrap
+{
+  width:600px;
+  margin: auto;
+  background-color: red;
+  overflow:hidden;
+}
+.content,asider
+{
+  height: 600px;
+}
+.content
+{
+  width:360px;
+  background-color:yellow;
+  float:left;
+}
+asider
+{
+  width :240px;
+  background-color: violet;
+  float:left;
+
+}
+asider ul
+{
+  padding-left: 18px;
+}
