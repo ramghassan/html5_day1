@@ -1,0 +1,58 @@
+li
+{
+	display: inline-block;
+	position: relative;
+    margin: 0px;
+	text-decoration: none;
+	
+
+}
+.set li hover
+{
+text-decoration: underline;
+font-size: 20px;
+}
+h1
+{
+	
+	
+}
+ .set
+{
+		margin-left: 0px
+}
+.set2 ul
+{
+	margin-left: 0px;
+}
+.set0
+{
+}
+header
+{
+	height: 30px;
+	margin-top: 20px;
+}
+ #img1
+{
+	background: url(../image/a2.jpg);
+	text-indent: -99999px;
+	width: 320px;
+height: 200px;
+no-repeat;
+ }
+a #img2
+{
+	background: url(/image/a2.png);
+	text-indent: -99999px;
+	height: 320px;
+	width: 320px;
+}
+a #img3
+{
+	background: url(/image/g.png);
+	text-indent: -99999px;
+	height: 320px;
+    width: 320px;
+}
+imh
